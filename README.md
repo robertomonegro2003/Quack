@@ -2,11 +2,6 @@
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91619952-3d89dc80-e997-11ea-9411-b729c3d49eb4.png" alt="logo" height="250px"></h3>
 
-<p align="center">
-  <a href="http://entynetproject.simplesite.com/">
-    <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
-
-***
 
 # About Quack Toolkit
 
